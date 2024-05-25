@@ -10,4 +10,4 @@
 1. Clone the repository.
 2. Compile the Java file:
    ```bash
-   javac TicTacToe.java
+   java TicTacToe.java
